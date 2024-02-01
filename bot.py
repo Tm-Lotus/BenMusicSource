@@ -5,9 +5,9 @@ from pyromod import listen
 
 bot = Client(
     "mo",
-    api_id=21016353,
-    api_hash="99765dcc8db939e7c8049c034cc9f3fe",
-    bot_token="6513047441:AAFR42f-VzjMHDLuqmLKx619vbSGRypmWCk",
+    api_id=8923378,
+    api_hash="6747503488:AAGr1L-Xto2zHyrW62GecQ7CtQv1wXSuo-Q",
+    bot_token="6878180342:AAG2cii5bLrKTMzWvE7FFiHCqbV_W5XtBrc",
     plugins=dict(root="MZombie")
     )
 
